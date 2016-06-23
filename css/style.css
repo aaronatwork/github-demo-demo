@@ -1,0 +1,67 @@
+body {
+background-image: url("../img/grass.jpg");
+background-size: cover;
+}
+
+#container {
+background-color: rgba(255, 215, 80, 0.77);
+width: 80%;
+margin: auto;
+}
+
+header ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+
+header li {
+display: inline;
+}
+
+header a {
+text-decoration: none;
+background-color: #ffd750;
+color: black;
+font-family: Helvetica, Arial, sans-serif;
+}
+    
+h1 {
+text-align: center;
+font-family: "Courier New", Courier, monospace; 
+color: #c39600;
+background-color: #ffd750;
+}
+
+h2 {
+text-align: center;
+font-family: "Courier New", Courier, monospace; 
+color: #725800;
+background-color: #ffd750;
+}
+
+h3 {
+font-family: "Courier New", Courier, monospace;
+color: #725800;
+}
+
+p {
+font-family: Verdana, Arial, sans-serif;
+}
+
+.bigpicture {
+text-align: center;
+    width: inherit;
+    margin: auto;
+}
+
+.bigpicture img {
+width: 100%;
+border: 3px solid #c39600;
+border-radius: 10%;    
+}
+
+section {
+margin: 0px 15px;
+}
